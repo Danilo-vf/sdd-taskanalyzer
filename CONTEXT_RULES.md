@@ -26,4 +26,4 @@ Estas regras são a fonte da verdade para qualquer assistente de IA que gere có
 - Fornecer sempre o contexto completo (este arquivo e a especificação) antes de pedir código.
 - Revisar criticamente todo código gerado antes de aceitar.
 - Rejeitar respostas que violem qualquer proibição acima.
-- Em caso de dúvida sobre o contrato, perguntar em vez de assumir.
+- Em caso de dúvida sobre o contrato, perguntar em vez de assumir
